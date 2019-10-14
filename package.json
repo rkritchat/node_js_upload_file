@@ -1,0 +1,22 @@
+{
+  "name": "image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.1",
+    "@types/mongoose": "^5.5.20",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.4",
+    "multer": "^1.4.2",
+    "multipart": "^0.1.5",
+    "nodemon": "^1.19.3"
+  }
+}
